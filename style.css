@@ -1,0 +1,15 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgb(255,255,251);
+    background: linear-gradient(42deg, rgba(255,255,251,1) 8%, rgba(145,0,255,0.9640231092436975) 32%, rgba(255,255,251,0.8239670868347339) 64%, rgba(145,0,255,1) 81%);
+}
+p{
+    text-align: justify;
+    margin: 50px;    
+}
+.img1{
+    margin-left: 20%;
+}
